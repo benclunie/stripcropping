@@ -1,0 +1,24 @@
+[
+  {
+    "objectID": "sitemap.html",
+    "href": "sitemap.html",
+    "title": "Biodiversity",
+    "section": "",
+    "text": "Biodiversity\nThis Robotic Strip Cropping project will involve a biodiversity audit to generate a baseline of the trial site and design of a PSCS field trial. HAU will monitor the trial for disease, pests, weeds, biodiversity, nutrient and light use efficiency, and will analyse the resulting yields.\nThe objective of the biodiversity audit is to utilise standard pitfall trapping for ground invertebrates and yellow sticky traps for flying invertebrate. The sampling sites will be selected from coordinates generated from a hexagonal grid overlay that mimics that used by the Soyl software currently employed by NP Holloway and Son to deliver abiotic and canopy health data for their fields.\nCollected invertebrate data can then be compared between the strip cropping site and an adjacent conventionally farmed field, and measured against collected soil and crop data obtained through the Soyl software. Further comparisons may be made between invertebrate groups and guilds and correlated with strip locations to identify impacts of the system and any edge effects.\n\n\nSite Map and Sampling Points\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: An interactive map of the autonomous strip cropping trial site and adjacent conventional field. Extra polygons and measurements may be taken with the interactive tools and each blue point contains coordinates once clicked on. The red polygons represent the hexagonal grid overlay, with blue markers indicating the centroids of each hexagonal grid cell. The scale bar is located in the bottom left corner of the map, and the legend is located in the bottom right corner of the map.",
+    "crumbs": [
+      "Biodiversity",
+      "Biodiversity"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robotic Strip Cropping",
+    "section": "",
+    "text": "Robotic Strip Cropping Project\nARRevolution / NP Holloway & Son / Harper Adams University - 2023 - 2025\nThis project builds on the successful IUK Funded Research Starter Pilot project ‘Robotic Arable Polyculture Farming’ (RAPF) and aims to test the feasibility of an innovative autonomous robot and toolset capable of farming broadacre arable crops in a polyculture strip cropping system (PSCS) by conducting a field trial. This is driven by the need for environmental sustainability and resilience, along with regenerating biodiversity and our soils. \nMonocultures exacerbate abiotic stresses such as soil compaction from heavy machines, poor soil structure and degraded soils. Monocultures also exacerbate biotic stresses such as disease, pests, and weeds, increasing the use of agrochemicals. \nFarming polycultures with lightweight machines can alleviate these issues but the lack of specific crop science knowledge and machinery available is severely limiting their potential. \nThis Robotic Strip Cropping consortium consists of the lead organisation ARRevolution Ltd (ARR) collaborating with Harper Adams University (HAU) and NP Holloway & Son (NPH). H&J Arnold (HJA) are subcontractors. \nThis Robotic Strip Cropping project will involve a biodiversity audit to generate a baseline of the trial site and design of a PSCS field trial.\n\n\nPublic Summary\nThis project builds on the Innovate UK Funded Farming Innovation Pathways Research Starter Pilot project ‘Robotic Arable Polyculture Farming’ and aims to test the feasibility of an innovative autonomous robot and toolset capable of farming broadacre arable crops in a polyculture strip cropping system. This is driven by the need for environmental sustainability and resilience, along with regenerating biodiversity and our soils. \nCurrent arable farming practice in England (and much of the world) is heavily reliant on monocultures, to grow crops as time efficiently as possible. For many years this has provided ever increasing crop yields, spurred on by agrochemicals and ever larger machinery, but the yields have plateaued and the detriment of monocultures to our environment and soils is more evident than ever. \nThe proposed polyculture strip cropping system can alleviate all the issues associated with monocultures while decreasing fertiliser and agrochemical usage, regenerating biodiversity, regenerating our soils, and increasing yields. \n\n\n\n\n\n\n\nLink to ARRevolution website",
+    "crumbs": [
+      "Robotic Strip Cropping",
+      "Robotic Strip Cropping"
+    ]
+  }
+]
